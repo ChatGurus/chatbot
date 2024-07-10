@@ -1,4 +1,4 @@
 # chatbot
-aktuellste Version: webcg.js mit konfigurierbarem timer (gilt nicht für mobile)
+aktuellste Version: cg.js mit konfigurierbarem timer (gilt nicht für mobile)
 
-alternative Version: webchatgurus.js (timer gilt auch für mobile)
+alternative Version: cg2.js (timer gilt auch für mobile)
