@@ -1,6 +1,5 @@
 # chatbot
-aktuellste Version: cg.js mit konfigurierbarem timer (gilt nicht für mobile)
+aktuellste Version: chatguru.js mit konfigurierbarem timer und background
 
-alternative Version: cg2.js (timer gilt auch für mobile)
 
-webedgy mit eckigem eingabefeld
+web_edgy mit eckigen ecken
